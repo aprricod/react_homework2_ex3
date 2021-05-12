@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 
 function count() {
   let n = Number.parseInt(document.getElementById("num").value);
